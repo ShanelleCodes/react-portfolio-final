@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-final/static/css/main.de955451.css",
+    "main.js": "/react-portfolio-final/static/js/main.b9b86c9b.js",
+    "static/media/skills-bg.jpeg": "/react-portfolio-final/static/media/skills-bg.82fb3125f9ca1a9c0461.jpeg",
+    "index.html": "/react-portfolio-final/index.html",
+    "main.de955451.css.map": "/react-portfolio-final/static/css/main.de955451.css.map",
+    "main.b9b86c9b.js.map": "/react-portfolio-final/static/js/main.b9b86c9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de955451.css",
+    "static/js/main.b9b86c9b.js"
+  ]
+}
